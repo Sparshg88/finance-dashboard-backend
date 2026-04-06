@@ -173,16 +173,6 @@ Steps:
 
 ---
 
-## 📈 Evaluation Criteria Covered
-
-✔ Backend Design (modular structure)
-✔ Role-based Access Control
-✔ CRUD + Aggregation APIs
-✔ Data Modeling using Mongoose
-✔ Validation & Error Handling
-✔ Clean and Maintainable Code
-
----
 
 ## ✨ Optional Enhancements
 
